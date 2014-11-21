@@ -1,1 +1,3 @@
-__author__ = 'yatagan'
+__author__ = 'bohdan'
+
+print "hello"
